@@ -7,7 +7,7 @@ public class StringClass
     //キャラ名
     public static readonly string CharacterName0 = "1man";
     public static readonly string CharacterName1 = "2man";
-    public static readonly string CharacterName2 = "3man";
+    public static readonly string CharacterName2 = "古田　史郎";
 
     public static readonly string[] CharacterNames =
     {
